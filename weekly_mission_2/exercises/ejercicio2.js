@@ -87,4 +87,8 @@ const explorers = [
    const exercises_some_true = explorers.some(my_explorer_in_list => my_explorer_in_list.missions.frontend.exercisesFinished === true)
    console.log(exercises_some_true)
 
+   console.log("Ejercicio 2.8")
+   const all_explorers_finished = explorers.every((my_explorer_in_list) => typeof my_explorer_in_list.missions.onboarding.isFinished === true)
+   console.log(all_explorers_finished)
+
 
