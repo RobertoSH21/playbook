@@ -1,7 +1,7 @@
 const issue = {
     title: "Haciendo mi primer issue",
     repositoryNameAssociated: "Prueba",
-    status: "",
+    status: "nothing to commit, working tree clean",
     numberOfComments: 50,
     labels: "Empezando, Issue-1",
     author: " Robert",
