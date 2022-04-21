@@ -6,7 +6,7 @@ Proyectos desarrollados en la semana 3:
 | Proyecto | Práctica | Link al repo |
 | ------------- |:-------------:| -----:|
 |`my_launchx_app`|1|[Link al repo](https://github.com/RobertoSH21/primerejercicio)|
-|`spiderverse`|2|[pendiente]|
+|`spiderverse`|2|[Link al repo](https://github.com/RobertoSH21/segundoejercicio)|
 |`twitter`|3, 4, 5|[pendiente]|
 |`express_basic`|6|[pendiente]|
 |`express_api`|7|[pendiente]|
