@@ -15,3 +15,10 @@ app.listen(port, () => {
 app.get('/launchx',(req, rest) => {
     rest.send("Bienvenidos a launchX")
 })
+
+app.get('/node',(req, rest) => {
+    const explorer1 = {id: 1, name: "Explorer1"}
+    const explorer2 = {id: 2, name: "Explorer2"}
+    const explorer3 = {id: 3, name: "Explorer3"}
+    rest.send(explorer1, explorer2, explorer3)
+})
