@@ -11,3 +11,7 @@ app.get('/',(req, rest) => {
 app.listen(port, () => {
     console.log("server listo!")
 })
+
+app.get('/launchx',(req, rest) => {
+    rest.send("Bienvenidos a launchX")
+})
