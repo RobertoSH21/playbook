@@ -22,3 +22,8 @@ app.get('/node',(req, rest) => {
     const explorer3 = {id: 3, name: "Explorer3"}
     rest.send(explorer1, explorer2, explorer3)
 })
+
+app.get('/explorers/:explorer',(req, rest) => {
+    console.log(req.params)
+    rest.send(req.params)
+})
