@@ -7,6 +7,6 @@ Proyectos desarrollados en la semana 3:
 | ------------- |:-------------:| -----:|
 |`my_launchx_app`|1|[Link al repo](https://github.com/RobertoSH21/primerejercicio)|
 |`spiderverse`|2|[Link al repo](https://github.com/RobertoSH21/segundoejercicio)|
-|`twitter`|3, 4, 5|[pendiente]|
+|`twitter`|3, 4, 5|[Link al repo](https://github.com/RobertoSH21/3-4-y-5-ejercicio)|
 |`express_basic`|6|[pendiente]|
 |`express_api`|7|[pendiente]|
